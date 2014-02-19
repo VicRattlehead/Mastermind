@@ -5,7 +5,7 @@
 
 
 
-package Juego;  //FUNCIONA CORRECTAMENTE 22-10-12
+package Juego;  ///FUNCIONA CORRECTAMENTE 22-10-12
 
 
 
